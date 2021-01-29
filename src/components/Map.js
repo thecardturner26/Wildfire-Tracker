@@ -23,4 +23,4 @@ Map.defaultProps = {
     zoom: 6
 }
 
-export default map
+export default Map
